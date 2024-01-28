@@ -15,7 +15,7 @@ Welcome to CyrilsBlogr, a personalized blogging platform made by Me. This projec
 ## Technologies Used
 
 - **Prismic** [Prismic]
-- **NextJS** [NextJS]
+- **NextJS** [NextJS](https://nextjs.org/docs/app/building-your-application/routing)
 - **ExpressJS** [ExpressJS]
 - **MongoDB** [MongoDB]
 - **Vercel** [Deployed Vercel]
